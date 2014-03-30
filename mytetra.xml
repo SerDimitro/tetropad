@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1396166651wcpj3tgmkf" name="Linux(Ubuntu, Debian)">
+   <node id="13961676102egivmnko4" name="Ubuntu Настройка">
+    <recordtable>
+     <record dir="1396167863zcbvvmxy6l" crypt="0" url="" tags="Структура и значение директорий в Linux &#xa;" author="" id="13961678632706wf8tvl" ctime="20140330112423" name="Структура и значение директорий в Linux &#xa;" file="text.html"/>
+    </recordtable>
+   </node>
+   <node id="13961667011rk4khrkcr" name="Bash(Terminal)"/>
+  </node>
+ </content>
+</root>
